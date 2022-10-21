@@ -1,0 +1,607 @@
+﻿Textbox147,Textbox148,Textbox152,Table5Title_tbx3,Table5Title_tbx4,Textbox154,Textbox146,Textbox159,Table5Title_tbx2,Table5Title_tbx6
+"Pumpkin: U.S. imports by value ($1,000)","Pumpkin: U.S. imports by volume (1,000 pounds)",Pumpkin: U.S. imports unit value ($ per pound),Pumpkin: U.S. import sources by value,Pumpkin: U.S. import sources by volume,"Pumpkin: U.S. exports by value ($1,000) ","Pumpkin: U.S. exports by volume (1,000 pounds)",Pumpkin: U.S. exports by unit value ($ per pound),Pumpkin: U.S. export destinations by value,Pumpkin: U.S. export destinations by volume
+
+Textbox119,Textbox131,Textbox21,qq3,Textbox23,Textbox124,gen val mo_label,gen val mo_Chart4_CategoryGroup_label,gen val mo_Chart4_CategoryGroup_Chart4_CategoryGroup1_label,gen val mo_Chart4_CategoryGroup_Chart4_CategoryGroup1_Value_Y,stat_year3,gen_qty_mo8,gen_qty_mo9,gen_qty_yr3
+,,,,,,gen val mo,2018,,813.371,,,,
+,,,,,,gen val mo,2018,,576.978,,,,
+,,,,,,gen val mo,2018,,518.306,,,,
+,,,,,,gen val mo,2018,,406.918,,,,
+,,,,,,gen val mo,2018,,397.867,,,,
+,,,,,,gen val mo,2018,,470.814,,,,
+,,,,,,gen val mo,2018,,334.615,,,,
+,,,,,,gen val mo,2018,,728.577,,,,
+,,,,,,gen val mo,2018,,2830.771,,,,
+,,,,,,gen val mo,2018,,4101.542,,,,
+,,,,,,gen val mo,2018,,1196.511,,,,
+,,,,,,gen val mo,2018,,860.776,,,,
+,,,,,,gen val mo,2019,,559.06,,,,
+,,,,,,gen val mo,2019,,488.371,,,,
+,,,,,,gen val mo,2019,,461.45,,,,
+,,,,,,gen val mo,2019,,729.055,,,,
+,,,,,,gen val mo,2019,,742.027,,,,
+,,,,,,gen val mo,2019,,486.968,,,,
+,,,,,,gen val mo,2019,,657.981,,,,
+,,,,,,gen val mo,2019,,1081.809,,,,
+,,,,,,gen val mo,2019,,4628.895,,,,
+,,,,,,gen val mo,2019,,5437.181,,,,
+,,,,,,gen val mo,2019,,792.096,,,,
+,,,,,,gen val mo,2019,,682.724,,,,
+,,,,,,gen val mo,2020,,535.209,,,,
+,,,,,,gen val mo,2020,,489.458,,,,
+,,,,,,gen val mo,2020,,1222.923,,,,
+,,,,,,gen val mo,2020,,761.925,,,,
+,,,,,,gen val mo,2020,,1048.588,,,,
+,,,,,,gen val mo,2020,,629.099,,,,
+,,,,,,gen val mo,2020,,667.82,,,,
+,,,,,,gen val mo,2020,,782.468,,,,
+,,,,,,gen val mo,2020,,7858.725,,,,
+,,,,,,gen val mo,2020,,6765.042,,,,
+,,,,,,gen val mo,2020,,1068.398,,,,
+,,,,,,gen val mo,2020,,949.047,,,,
+,,,,,,gen val mo,2021,,831.248,,,,
+,,,,,,gen val mo,2021,,932.003,,,,
+,,,,,,gen val mo,2021,,1083.301,,,,
+,,,,,,gen val mo,2021,,771.309,,,,
+,,,,,,gen val mo,2021,,620.442,,,,
+,,,,,,gen val mo,2021,,679.992,,,,
+,,,,,,gen val mo,2021,,535.225,,,,
+,,,,,,gen val mo,2021,,672.984,,,,
+,,,,,,gen val mo,2021,,7095.906,,,,
+,,,,,,gen val mo,2021,,4448.369,,,,
+,,,,,,gen val mo,2021,,959.977,,,,
+,,,,,,gen val mo,2021,,994.694,,,,
+,,,,,,gen val mo,2022,,633.619,,,,
+,,,,,,gen val mo,2022,,716.797,,,,
+,,,,,,gen val mo,2022,,467.547,,,,
+,,,,,,gen val mo,2022,,431.151,,,,
+,,,,,,gen val mo,2022,,544.496,,,,
+,,,,,,gen val mo,2022,,563.651,,,,
+,,,,,,gen val mo,2022,,643.873,,,,
+,,,,,,gen val mo,2022,,1337.225,,,,
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2022,634,"1,818","5,338"
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2022,717,"1,818","5,338"
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2022,468,"1,818","5,338"
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2022,431,"1,539","5,338"
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2022,544,"1,539","5,338"
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2022,564,"1,539","5,338"
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2022,644,"1,981","5,338"
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2022,"1,337","1,981","5,338"
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2022,NA,"1,981","5,338"
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2022,NA,,"5,338"
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2022,NA,,"5,338"
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2022,NA,,"5,338"
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2021,831,"2,847","19,625"
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2021,932,"2,847","19,625"
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2021,"1,083","2,847","19,625"
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2021,771,"2,072","19,625"
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2021,620,"2,072","19,625"
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2021,680,"2,072","19,625"
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2021,535,"8,304","19,625"
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2021,673,"8,304","19,625"
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2021,"7,096","8,304","19,625"
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2021,"4,448","6,403","19,625"
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2021,960,"6,403","19,625"
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2021,995,"6,403","19,625"
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2020,535,"2,248","22,779"
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2020,489,"2,248","22,779"
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2020,"1,223","2,248","22,779"
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2020,762,"2,440","22,779"
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2020,"1,049","2,440","22,779"
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2020,629,"2,440","22,779"
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2020,668,"9,309","22,779"
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2020,782,"9,309","22,779"
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2020,"7,859","9,309","22,779"
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2020,"6,765","8,782","22,779"
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2020,"1,068","8,782","22,779"
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2020,949,"8,782","22,779"
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2019,559,"1,509","16,748"
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2019,488,"1,509","16,748"
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2019,461,"1,509","16,748"
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2019,729,"1,958","16,748"
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2019,742,"1,958","16,748"
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2019,487,"1,958","16,748"
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2019,658,"6,369","16,748"
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2019,"1,082","6,369","16,748"
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2019,"4,629","6,369","16,748"
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2019,"5,437","6,912","16,748"
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2019,792,"6,912","16,748"
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2019,683,"6,912","16,748"
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2018,813,"1,909","13,237"
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2018,577,"1,909","13,237"
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2018,518,"1,909","13,237"
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2018,407,"1,276","13,237"
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2018,398,"1,276","13,237"
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2018,471,"1,276","13,237"
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2018,335,"3,894","13,237"
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2018,729,"3,894","13,237"
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2018,"2,831","3,894","13,237"
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2018,"4,102","6,159","13,237"
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2018,"1,197","6,159","13,237"
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2018,861,"6,159","13,237"
+
+Textbox120,Textbox132,Textbox97,qq4,Textbox25,Textbox125,gen qty mo_label,gen qty mo_Chart5_CategoryGroup_label,gen qty mo_Chart5_CategoryGroup_Chart5_CategoryGroup1_label,gen qty mo_Chart5_CategoryGroup_Chart5_CategoryGroup1_Value_Y,stat_year4,gen_qty_mo10,gen_qty_mo11,gen_qty_yr4
+,,,,,,gen qty mo,2018,,3815.41911738947,,,,
+,,,,,,gen qty mo,2018,,2795.24322686468,,,,
+,,,,,,gen qty mo,2018,,3692.91705678383,,,,
+,,,,,,gen qty mo,2018,,2737.4071570031,,,,
+,,,,,,gen qty mo,2018,,2640.11275145567,,,,
+,,,,,,gen qty mo,2018,,3033.51002134361,,,,
+,,,,,,gen qty mo,2018,,2053.9454841359,,,,
+,,,,,,gen qty mo,2018,,4373.68468080713,,,,
+,,,,,,gen qty mo,2018,,17390.4247992531,,,,
+,,,,,,gen qty mo,2018,,25394.7768124936,,,,
+,,,,,,gen qty mo,2018,,4764.79355241359,,,,
+,,,,,,gen qty mo,2018,,4020.73341753963,,,,
+,,,,,,gen qty mo,2019,,3694.42060941193,,,,
+,,,,,,gen qty mo,2019,,3073.2747995739,,,,
+,,,,,,gen qty mo,2019,,2732.89208987356,,,,
+,,,,,,gen qty mo,2019,,3769.02062969005,,,,
+,,,,,,gen qty mo,2019,,3311.5790726374,,,,
+,,,,,,gen qty mo,2019,,1916.75181837825,,,,
+,,,,,,gen qty mo,2019,,2264.66992820007,,,,
+,,,,,,gen qty mo,2019,,5060.99562477208,,,,
+,,,,,,gen qty mo,2019,,26388.1621289176,,,,
+,,,,,,gen qty mo,2019,,32016.3145601413,,,,
+,,,,,,gen qty mo,2019,,4348.53214131446,,,,
+,,,,,,gen qty mo,2019,,3481.26667121848,,,,
+,,,,,,gen qty mo,2020,,3280.25799904879,,,,
+,,,,,,gen qty mo,2020,,2578.04160153752,,,,
+,,,,,,gen qty mo,2020,,5349.41317465283,,,,
+,,,,,,gen qty mo,2020,,2932.44571111282,,,,
+,,,,,,gen qty mo,2020,,4181.32033393772,,,,
+,,,,,,gen qty mo,2020,,2376.22383286562,,,,
+,,,,,,gen qty mo,2020,,3586.87029942766,,,,
+,,,,,,gen qty mo,2020,,4180.96318507298,,,,
+,,,,,,gen qty mo,2020,,41593.5148997326,,,,
+,,,,,,gen qty mo,2020,,43365.6963850604,,,,
+,,,,,,gen qty mo,2020,,4278.05035609395,,,,
+,,,,,,gen qty mo,2020,,3818.95092282968,,,,
+,,,,,,gen qty mo,2021,,3281.94012610926,,,,
+,,,,,,gen qty mo,2021,,3310.35991632752,,,,
+,,,,,,gen qty mo,2021,,4822.10051284593,,,,
+,,,,,,gen qty mo,2021,,4329.64293469046,,,,
+,,,,,,gen qty mo,2021,,3174.88585621491,,,,
+,,,,,,gen qty mo,2021,,3738.63652071573,,,,
+,,,,,,gen qty mo,2021,,3229.05122941111,,,,
+,,,,,,gen qty mo,2021,,4170.0480984722,,,,
+,,,,,,gen qty mo,2021,,42201.0493695033,,,,
+,,,,,,gen qty mo,2021,,24761.670924932,,,,
+,,,,,,gen qty mo,2021,,4446.11755704797,,,,
+,,,,,,gen qty mo,2021,,4942.59416224307,,,,
+,,,,,,gen qty mo,2022,,3234.6201061539,,,,
+,,,,,,gen qty mo,2022,,3803.48769976003,,,,
+,,,,,,gen qty mo,2022,,2614.96682583087,,,,
+,,,,,,gen qty mo,2022,,2622.40301793436,,,,
+,,,,,,gen qty mo,2022,,3193.20406557985,,,,
+,,,,,,gen qty mo,2022,,2576.85551456697,,,,
+,,,,,,gen qty mo,2022,,2355.27109946757,,,,
+,,,,,,gen qty mo,2022,,5340.38744963898,,,,
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2022,"3,235","9,653","25,741"
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2022,"3,803","9,653","25,741"
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2022,"2,615","9,653","25,741"
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2022,"2,622","8,392","25,741"
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2022,"3,193","8,392","25,741"
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2022,"2,577","8,392","25,741"
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2022,"2,355","7,696","25,741"
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2022,"5,340","7,696","25,741"
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2022,NA,"7,696","25,741"
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2022,NA,,"25,741"
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2022,NA,,"25,741"
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2022,NA,,"25,741"
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2021,"3,282","11,414","106,408"
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2021,"3,310","11,414","106,408"
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2021,"4,822","11,414","106,408"
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2021,"4,330","11,243","106,408"
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2021,"3,175","11,243","106,408"
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2021,"3,739","11,243","106,408"
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2021,"3,229","49,600","106,408"
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2021,"4,170","49,600","106,408"
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2021,"42,201","49,600","106,408"
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2021,"24,762","34,150","106,408"
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2021,"4,446","34,150","106,408"
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2021,"4,943","34,150","106,408"
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2020,"3,280","11,208","121,522"
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2020,"2,578","11,208","121,522"
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2020,"5,349","11,208","121,522"
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2020,"2,932","9,490","121,522"
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2020,"4,181","9,490","121,522"
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2020,"2,376","9,490","121,522"
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2020,"3,587","49,361","121,522"
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2020,"4,181","49,361","121,522"
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2020,"41,594","49,361","121,522"
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2020,"43,366","51,463","121,522"
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2020,"4,278","51,463","121,522"
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2020,"3,819","51,463","121,522"
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2019,"3,694","9,501","92,058"
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2019,"3,073","9,501","92,058"
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2019,"2,733","9,501","92,058"
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2019,"3,769","8,997","92,058"
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2019,"3,312","8,997","92,058"
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2019,"1,917","8,997","92,058"
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2019,"2,265","33,714","92,058"
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2019,"5,061","33,714","92,058"
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2019,"26,388","33,714","92,058"
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2019,"32,016","39,846","92,058"
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2019,"4,349","39,846","92,058"
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2019,"3,481","39,846","92,058"
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2018,"3,815","10,304","76,713"
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2018,"2,795","10,304","76,713"
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2018,"3,693","10,304","76,713"
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2018,"2,737","8,411","76,713"
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2018,"2,640","8,411","76,713"
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2018,"3,034","8,411","76,713"
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2018,"2,054","23,818","76,713"
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2018,"4,374","23,818","76,713"
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2018,"17,390","23,818","76,713"
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2018,"25,395","34,180","76,713"
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2018,"4,765","34,180","76,713"
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2018,"4,021","34,180","76,713"
+
+Textbox122,Textbox134,Textbox31,qq6,Textbox34,Textbox127,gen qty mo_label,gen qty mo_Chart7_CategoryGroup_label,gen qty mo_Chart7_CategoryGroup_Chart7_CategoryGroup1_label,gen qty mo_Chart7_CategoryGroup_Chart7_CategoryGroup1_Value_Y,stat_year6,gen_qty_mo14,gen_qty_mo15,gen_qty_yr6
+,,,,,,gen qty mo,2018,,0.213179987564908,,,,
+,,,,,,gen qty mo,2018,,0.206414237750313,,,,
+,,,,,,gen qty mo,2018,,0.140351378606752,,,,
+,,,,,,gen qty mo,2018,,0.148650886280831,,,,
+,,,,,,gen qty mo,2018,,0.15070076070828,,,,
+,,,,,,gen qty mo,2018,,0.155204366126163,,,,
+,,,,,,gen qty mo,2018,,0.162913282063459,,,,
+,,,,,,gen qty mo,2018,,0.166581967647825,,,,
+,,,,,,gen qty mo,2018,,0.162777564819554,,,,
+,,,,,,gen qty mo,2018,,0.161511244232796,,,,
+,,,,,,gen qty mo,2018,,0.251114972104911,,,,
+,,,,,,gen qty mo,2018,,0.214084325074883,,,,
+,,,,,,gen qty mo,2019,,0.151325487567857,,,,
+,,,,,,gen qty mo,2019,,0.158908991824523,,,,
+,,,,,,gen qty mo,2019,,0.168850428346532,,,,
+,,,,,,gen qty mo,2019,,0.193433539274619,,,,
+,,,,,,gen qty mo,2019,,0.224070446069414,,,,
+,,,,,,gen qty mo,2019,,0.254058973796629,,,,
+,,,,,,gen qty mo,2019,,0.290541677533977,,,,
+,,,,,,gen qty mo,2019,,0.213754185975752,,,,
+,,,,,,gen qty mo,2019,,0.175415588906337,,,,
+,,,,,,gen qty mo,2019,,0.169825324204211,,,,
+,,,,,,gen qty mo,2019,,0.182152499799753,,,,
+,,,,,,gen qty mo,2019,,0.19611367484268,,,,
+,,,,,,gen qty mo,2020,,0.16316064167977,,,,
+,,,,,,gen qty mo,2020,,0.189856517330089,,,,
+,,,,,,gen qty mo,2020,,0.228608813728315,,,,
+,,,,,,gen qty mo,2020,,0.259825781978709,,,,
+,,,,,,gen qty mo,2020,,0.250779159752274,,,,
+,,,,,,gen qty mo,2020,,0.264747365672759,,,,
+,,,,,,gen qty mo,2020,,0.186184596668177,,,,
+,,,,,,gen qty mo,2020,,0.187150176972042,,,,
+,,,,,,gen qty mo,2020,,0.188941113030352,,,,
+,,,,,,gen qty mo,2020,,0.155999846974222,,,,
+,,,,,,gen qty mo,2020,,0.249739463323076,,,,
+,,,,,,gen qty mo,2020,,0.248509870688989,,,,
+,,,,,,gen qty mo,2021,,0.253279453024466,,,,
+,,,,,,gen qty mo,2021,,0.281541289635344,,,,
+,,,,,,gen qty mo,2021,,0.224653342897793,,,,
+,,,,,,gen qty mo,2021,,0.17814609925914,,,,
+,,,,,,gen qty mo,2021,,0.195421828720384,,,,
+,,,,,,gen qty mo,2021,,0.1818823510208,,,,
+,,,,,,gen qty mo,2021,,0.165753022164845,,,,
+,,,,,,gen qty mo,2021,,0.161385188877453,,,,
+,,,,,,gen qty mo,2021,,0.168145250082996,,,,
+,,,,,,gen qty mo,2021,,0.179647367638709,,,,
+,,,,,,gen qty mo,2021,,0.215913544273756,,,,
+,,,,,,gen qty mo,2021,,0.201249377826437,,,,
+,,,,,,gen qty mo,2022,,0.195886681961363,,,,
+,,,,,,gen qty mo,2022,,0.18845781992281,,,,
+,,,,,,gen qty mo,2022,,0.178796532094224,,,,
+,,,,,,gen qty mo,2022,,0.16441065581888,,,,
+,,,,,,gen qty mo,2022,,0.170517132265121,,,,
+,,,,,,gen qty mo,2022,,0.218735973675544,,,,
+,,,,,,gen qty mo,2022,,0.273375324031936,,,,
+,,,,,,gen qty mo,2022,,0.250398498725106,,,,
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2022,0.20,0.19,0.21
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2022,0.19,0.19,0.21
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2022,0.18,0.19,0.21
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2022,0.16,0.18,0.21
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2022,0.17,0.18,0.21
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2022,0.22,0.18,0.21
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2022,0.27,0.26,0.21
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2022,0.25,0.26,0.21
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2022,NA,0.26,0.21
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2022,NA,NaN,0.21
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2022,NA,NaN,0.21
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2022,NA,NaN,0.21
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2021,0.25,0.25,0.18
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2021,0.28,0.25,0.18
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2021,0.22,0.25,0.18
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2021,0.18,0.18,0.18
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2021,0.20,0.18,0.18
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2021,0.18,0.18,0.18
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2021,0.17,0.17,0.18
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2021,0.16,0.17,0.18
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2021,0.17,0.17,0.18
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2021,0.18,0.19,0.18
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2021,0.22,0.19,0.18
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2021,0.20,0.19,0.18
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2020,0.16,0.20,0.19
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2020,0.19,0.20,0.19
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2020,0.23,0.20,0.19
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2020,0.26,0.26,0.19
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2020,0.25,0.26,0.19
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2020,0.26,0.26,0.19
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2020,0.19,0.19,0.19
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2020,0.19,0.19,0.19
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2020,0.19,0.19,0.19
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2020,0.16,0.17,0.19
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2020,0.25,0.17,0.19
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2020,0.25,0.17,0.19
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2019,0.15,0.16,0.18
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2019,0.16,0.16,0.18
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2019,0.17,0.16,0.18
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2019,0.19,0.22,0.18
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2019,0.22,0.22,0.18
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2019,0.25,0.22,0.18
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2019,0.29,0.19,0.18
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2019,0.21,0.19,0.18
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2019,0.18,0.19,0.18
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2019,0.17,0.17,0.18
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2019,0.18,0.17,0.18
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2019,0.20,0.17,0.18
+,Fresh or chilled¹,Market year*,Quarter 1,Jan,Q1,,,,,2018,0.21,0.19,0.17
+,Fresh or chilled¹,Market year*,Quarter 1,Feb,Q1,,,,,2018,0.21,0.19,0.17
+,Fresh or chilled¹,Market year*,Quarter 1,Mar,Q1,,,,,2018,0.14,0.19,0.17
+,Fresh or chilled¹,Market year*,Quarter 2,Apr,Q2,,,,,2018,0.15,0.15,0.17
+,Fresh or chilled¹,Market year*,Quarter 2,May,Q2,,,,,2018,0.15,0.15,0.17
+,Fresh or chilled¹,Market year*,Quarter 2,Jun,Q2,,,,,2018,0.16,0.15,0.17
+,Fresh or chilled¹,Market year*,Quarter 3,Jul,Q3,,,,,2018,0.16,0.16,0.17
+,Fresh or chilled¹,Market year*,Quarter 3,Aug,Q3,,,,,2018,0.17,0.16,0.17
+,Fresh or chilled¹,Market year*,Quarter 3,Sep,Q3,,,,,2018,0.16,0.16,0.17
+,Fresh or chilled¹,Market year*,Quarter 4,Oct,Q4,,,,,2018,0.16,0.18,0.17
+,Fresh or chilled¹,Market year*,Quarter 4,Nov,Q4,,,,,2018,0.25,0.18,0.17
+,Fresh or chilled¹,Market year*,Quarter 4,Dec,Q4,,,,,2018,0.21,0.18,0.17
+
+Textbox75,marketSegment3,Textbox114,stat_year14,stat_month7,CountryName6,Textbox17,Textbox93,all val yr_label,all val yr_ChartGroup10_label,all val yr_ChartGroup10_Value_Y,ExpDestValue_tbx5,all val yr_label,all val yr_ChartGroup16_label,all val yr_ChartGroup16_Value_Y,Textbox44,Textbox11,Textbox12,Textbox26,Textbox29,Textbox189,seg Num_label,seg Num_Sparkline5_CategoryGroup2_label,seg Num_Sparkline5_CategoryGroup2_Value_Y,Textbox105
+Ranking based on prior 4 annual market year* totals ,,,,,Canada,50.4%,"9,702",all val yr,2018,6429279,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Canada,50.4%,"9,702",all val yr,2019,9438124,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Canada,50.4%,"9,702",all val yr,2020,12494954,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Canada,50.4%,"9,702",all val yr,2021,10447632,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,Canada,50.4%,"9,702",,,,"6,429",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,Canada,50.4%,"9,702",,,,"9,438",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,Canada,50.4%,"9,702",,,,"12,495",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,Canada,50.4%,"9,702",,,,"10,448",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,Canada,50.4%,"9,702",,,,250,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,Canada,50.4%,"9,702",,,,347,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Costa Rica,34.4%,"5,795",all val yr,2018,5716568,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Costa Rica,34.4%,"5,795",all val yr,2019,4984073,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Costa Rica,34.4%,"5,795",all val yr,2020,6260077,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Costa Rica,34.4%,"5,795",all val yr,2021,6217295,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,Costa Rica,34.4%,"5,795",,,,"5,717",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,Costa Rica,34.4%,"5,795",,,,"4,984",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,Costa Rica,34.4%,"5,795",,,,"6,260",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,Costa Rica,34.4%,"5,795",,,,"6,217",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,Costa Rica,34.4%,"5,795",,,,"3,808",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,Costa Rica,34.4%,"5,795",,,,"3,586",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Mexico,5.3%,974,all val yr,2018,68976,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Mexico,5.3%,974,all val yr,2019,499306,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Mexico,5.3%,974,all val yr,2020,2477535,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Mexico,5.3%,974,all val yr,2021,849260,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,Mexico,5.3%,974,,,,69,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,Mexico,5.3%,974,,,,499,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,Mexico,5.3%,974,,,,"2,478",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,Mexico,5.3%,974,,,,849,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,Mexico,5.3%,974,,,,560,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,Mexico,5.3%,974,,,,237,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Panama,4.9%,824,all val yr,2018,214650,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Panama,4.9%,824,all val yr,2019,962130,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Panama,4.9%,824,all val yr,2020,768542,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Panama,4.9%,824,all val yr,2021,1348715,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,Panama,4.9%,824,,,,215,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,Panama,4.9%,824,,,,962,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,Panama,4.9%,824,,,,769,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,Panama,4.9%,824,,,,"1,349",,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,Panama,4.9%,824,,,,971,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,Panama,4.9%,824,,,,553,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Honduras,2.3%,380,all val yr,2018,307583,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Honduras,2.3%,380,all val yr,2019,315444,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Honduras,2.3%,380,all val yr,2020,345996,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Honduras,2.3%,380,all val yr,2021,549880,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,Honduras,2.3%,380,,,,308,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,Honduras,2.3%,380,,,,315,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,Honduras,2.3%,380,,,,346,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,Honduras,2.3%,380,,,,550,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,Honduras,2.3%,380,,,,402,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,Honduras,2.3%,380,,,,264,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,all val yr,2018,499990,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,all val yr,2019,548540,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,all val yr,2020,431598,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,all val yr,2021,212668,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,500,Dominican Republic,1.3%,172,233,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,549,Dominican Republic,1.3%,172,161,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,432,Dominican Republic,1.3%,172,171,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,213,Dominican Republic,1.3%,172,122,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,135,Dominican Republic,1.3%,172,109,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,352,Dominican Republic,1.3%,172,287,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,500,Nicaragua,0.6%,96,182,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,549,Nicaragua,0.6%,96,230,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,432,Nicaragua,0.6%,96,63,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,213,Nicaragua,0.6%,96,5,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,135,Nicaragua,0.6%,96,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,352,Nicaragua,0.6%,96,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,500,Haiti,0.3%,39,27,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,549,Haiti,0.3%,39,58,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,432,Haiti,0.3%,39,60,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,213,Haiti,0.3%,39,50,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,135,Haiti,0.3%,39,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,352,Haiti,0.3%,39,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,500,Jamaica,0.2%,30,20,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,549,Jamaica,0.2%,30,38,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,432,Jamaica,0.2%,30,59,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,213,Jamaica,0.2%,30,2,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,135,Jamaica,0.2%,30,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,352,Jamaica,0.2%,30,26,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,500,Guatemala,0.1%,16,11,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,549,Guatemala,0.1%,16,7,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,432,Guatemala,0.1%,16,22,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,213,Guatemala,0.1%,16,22,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,135,Guatemala,0.1%,16,15,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,352,Guatemala,0.1%,16,24,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,500,Belize,0.1%,16,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,549,Belize,0.1%,16,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,432,Belize,0.1%,16,58,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,213,Belize,0.1%,16,5,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,135,Belize,0.1%,16,5,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,352,Belize,0.1%,16,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,500,Chile,0.1%,11,23,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,549,Chile,0.1%,11,33,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,432,Chile,0.1%,11,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,213,Chile,0.1%,11,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,135,Chile,0.1%,11,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,352,Chile,0.1%,11,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,500,Ecuador,0.0%,2,2,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,549,Ecuador,0.0%,2,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,432,Ecuador,0.0%,2,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,213,Ecuador,0.0%,2,6,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,135,Ecuador,0.0%,2,6,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,352,Ecuador,0.0%,2,15,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,500,Argentina,0.0%,4,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,549,Argentina,0.0%,4,19,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,432,Argentina,0.0%,4,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,213,Argentina,0.0%,4,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,135,Argentina,0.0%,4,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,352,Argentina,0.0%,4,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,500,China,0.0%,0,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,549,China,0.0%,0,2,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,432,China,0.0%,0,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,213,China,0.0%,0,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,135,China,0.0%,0,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,352,China,0.0%,0,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,,,,,,,,,"18,097",seg Num,2018,12,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,,,,,,,,,"18,097",seg Num,2019,13,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,,,,,,,,,"18,097",seg Num,2020,11,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,,,,,,,,,"18,097",seg Num,2021,12,
+
+Textbox82,marketSegment4,Textbox115,stat_year15,stat_month8,CountryName7,Textbox24,Textbox95,all qty yr_label,all qty yr_ChartGroup13_label,all qty yr_ChartGroup13_Value_Y,ExpDestValue_tbx6,all qty yr_label,all qty yr_ChartGroup17_label,all qty yr_ChartGroup17_Value_Y,Textbox88,Textbox66,Textbox30,Textbox98,ExpDestValue_tbx7,Textbox96,Textbox193,seg Num_label,seg Num_ChartGroup14_label,seg Num_ChartGroup14_Value_Y,Textbox106
+Ranking based on prior 4 annual market year* totals ,,,,,Canada,55.3%,"57,897",all qty yr,2018,40046,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Canada,55.3%,"57,897",all qty yr,2019,53946,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Canada,55.3%,"57,897",all qty yr,2020,76960,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Canada,55.3%,"57,897",all qty yr,2021,60637,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,Canada,55.3%,"57,897",,,,"40,046",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,Canada,55.3%,"57,897",,,,"53,946",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,Canada,55.3%,"57,897",,,,"76,960",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,Canada,55.3%,"57,897",,,,"60,637",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,Canada,55.3%,"57,897",,,,950,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,Canada,55.3%,"57,897",,,,"2,118",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Costa Rica,31.9%,"29,493",all qty yr,2018,29946,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Costa Rica,31.9%,"29,493",all qty yr,2019,26682,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Costa Rica,31.9%,"29,493",all qty yr,2020,29848,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Costa Rica,31.9%,"29,493",all qty yr,2021,31497,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,Costa Rica,31.9%,"29,493",,,,"29,946",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,Costa Rica,31.9%,"29,493",,,,"26,682",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,Costa Rica,31.9%,"29,493",,,,"29,848",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,Costa Rica,31.9%,"29,493",,,,"31,497",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,Costa Rica,31.9%,"29,493",,,,"19,382",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,Costa Rica,31.9%,"29,493",,,,"16,974",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Panama,4.2%,"3,739",all qty yr,2018,1007,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Panama,4.2%,"3,739",all qty yr,2019,3972,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Panama,4.2%,"3,739",all qty yr,2020,3833,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Panama,4.2%,"3,739",all qty yr,2021,6144,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,Panama,4.2%,"3,739",,,,"1,007",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,Panama,4.2%,"3,739",,,,"3,972",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,Panama,4.2%,"3,739",,,,"3,833",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,Panama,4.2%,"3,739",,,,"6,144",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,Panama,4.2%,"3,739",,,,"4,427",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,Panama,4.2%,"3,739",,,,"2,937",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Honduras,3.4%,"3,015",all qty yr,2018,2973,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Honduras,3.4%,"3,015",all qty yr,2019,2477,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Honduras,3.4%,"3,015",all qty yr,2020,2162,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Honduras,3.4%,"3,015",all qty yr,2021,4449,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,Honduras,3.4%,"3,015",,,,"2,973",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,Honduras,3.4%,"3,015",,,,"2,477",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,Honduras,3.4%,"3,015",,,,"2,162",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,Honduras,3.4%,"3,015",,,,"4,449",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,Honduras,3.4%,"3,015",,,,"3,320",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,Honduras,3.4%,"3,015",,,,"2,297",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Mexico,2.9%,"2,952",all qty yr,2018,371,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Mexico,2.9%,"2,952",all qty yr,2019,1855,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Mexico,2.9%,"2,952",all qty yr,2020,6802,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,Mexico,2.9%,"2,952",all qty yr,2021,2780,,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,Mexico,2.9%,"2,952",,,,371,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,Mexico,2.9%,"2,952",,,,"1,855",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,Mexico,2.9%,"2,952",,,,"6,802",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,Mexico,2.9%,"2,952",,,,"2,780",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,Mexico,2.9%,"2,952",,,,"1,391",,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,Mexico,2.9%,"2,952",,,,436,,,,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,all qty yr,2018,2364,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,all qty yr,2019,3119,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,all qty yr,2020,1911,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,all qty yr,2021,895,,,,,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,"2,364",Nicaragua,1.0%,819,"1,398",,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,"3,119",Nicaragua,1.0%,819,"2,134",,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,"1,911",Nicaragua,1.0%,819,551,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,895,Nicaragua,1.0%,819,14,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,583,Nicaragua,1.0%,819,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,974,Nicaragua,1.0%,819,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,"2,364",Dominican Republic,0.7%,543,667,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,"3,119",Dominican Republic,0.7%,543,499,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,"1,911",Dominican Republic,0.7%,543,531,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,895,Dominican Republic,0.7%,543,474,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,583,Dominican Republic,0.7%,543,439,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,974,Dominican Republic,0.7%,543,781,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,"2,364",Haiti,0.2%,132,89,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,"3,119",Haiti,0.2%,132,156,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,"1,911",Haiti,0.2%,132,174,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,895,Haiti,0.2%,132,240,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,583,Haiti,0.2%,132,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,974,Haiti,0.2%,132,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,"2,364",Guatemala,0.1%,124,126,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,"3,119",Guatemala,0.1%,124,84,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,"1,911",Guatemala,0.1%,124,184,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,895,Guatemala,0.1%,124,101,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,583,Guatemala,0.1%,124,81,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,974,Guatemala,0.1%,124,107,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,"2,364",Belize,0.1%,102,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,"3,119",Belize,0.1%,102,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,"1,911",Belize,0.1%,102,350,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,895,Belize,0.1%,102,57,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,583,Belize,0.1%,102,57,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,974,Belize,0.1%,102,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,"2,364",Jamaica,0.1%,74,47,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,"3,119",Jamaica,0.1%,74,126,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,"1,911",Jamaica,0.1%,74,121,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,895,Jamaica,0.1%,74,3,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,583,Jamaica,0.1%,74,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,974,Jamaica,0.1%,74,72,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,"2,364",Chile,0.0%,23,32,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,"3,119",Chile,0.0%,23,83,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,"1,911",Chile,0.0%,23,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,895,Chile,0.0%,23,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,583,Chile,0.0%,23,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,974,Chile,0.0%,23,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,"2,364",Argentina,0.0%,7,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,"3,119",Argentina,0.0%,7,35,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,"1,911",Argentina,0.0%,7,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,895,Argentina,0.0%,7,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,583,Argentina,0.0%,7,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,974,Argentina,0.0%,7,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,"2,364",Ecuador,0.0%,3,5,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,"3,119",Ecuador,0.0%,3,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,"1,911",Ecuador,0.0%,3,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,895,Ecuador,0.0%,3,6,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,583,Ecuador,0.0%,3,6,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,974,Ecuador,0.0%,3,14,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2018,ANN,,,,,,,,,,,"2,364",China,0.0%,0,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2019,ANN,,,,,,,,,,,"3,119",China,0.0%,0,2,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2020,ANN,,,,,,,,,,,"1,911",China,0.0%,0,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,ANN,,,,,,,,,,,895,China,0.0%,0,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2021,Aug YTD,,,,,,,,,,,583,China,0.0%,0,,,,,,,
+Ranking based on prior 4 annual market year* totals ,Fresh or chilled¹ ,ANN: Jan-Dec,2022,Aug YTD,,,,,,,,,,,974,China,0.0%,0,,,,,,,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,,,,,,,,,Fresh or chilled total,"99,169",seg Num,18,12,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,,,,,,,,,Fresh or chilled total,"99,169",seg Num,19,13,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,,,,,,,,,Fresh or chilled total,"99,169",seg Num,20,11,
+Ranking based on prior 4 annual market year* totals ,,,,,,,,,,,,,,,,,,,,Fresh or chilled total,"99,169",seg Num,21,12,
+
+Textbox129,Textbox141,Textbox35,qq7,Textbox38,Textbox128,all val mo_label,all val mo_Chart8_CategoryGroup_label,all val mo_Chart8_CategoryGroup_Chart8_CategoryGroup1_label,all val mo_Chart8_CategoryGroup_Chart8_CategoryGroup1_Value_Y,stat_year7,gen_qty_mo16,gen_qty_mo17,gen_qty_yr7
+
+Textbox118,Textbox130,Textbox20,qq2,Textbox22,Textbox123,all qty mo_label,all qty mo_Chart3_CategoryGroup1_label,all qty mo_Chart3_CategoryGroup1_Chart3_CategoryGroup_label,all qty mo_Chart3_CategoryGroup1_Chart3_CategoryGroup_Value_Y,stat_year2,gen_qty_mo6,gen_qty_mo7,gen_qty_yr2
+
+Textbox158,Textbox155,Textbox60,qq8,Textbox64,Textbox156,all qty mo_label,all qty mo_Chart9_CategoryGroup_label,all qty mo_Chart9_CategoryGroup_Chart9_CategoryGroup1_label,all qty mo_Chart9_CategoryGroup_Chart9_CategoryGroup1_Value_Y,stat_year8,gen_qty_mo18,gen_qty_mo19,gen_qty_yr8
+
+Textbox76,stat_year16,marketSegment2,Textbox113,stat_month6,CountryName5,Textbox14,Textbox89,all val yr_label,all val yr_ChartGroup9_label,all val yr_ChartGroup9_Value_Y,ExpDestValue_tbx4,all val yr_label,all val yr_ChartGroup15_label,all val yr_ChartGroup15_Value_Y,all_val_yr,Textbox52,Textbox54,Textbox55,Textbox57,Textbox90,Textbox188,seg Num_label,seg Num_Sparkline5_CategoryGroup_label,seg Num_Sparkline5_CategoryGroup_Value_Y,Textbox103
+
+Textbox104,marketSegment6,Textbox116,stat_year17,stat_month9,CountryName9,Textbox69,Textbox100,all qty yr_label,all qty yr_ChartGroup19_label,all qty yr_ChartGroup19_Value_Y,ExpDestValue_tbx8,all qty yr_label,all qty yr_ChartGroup22_label,all qty yr_ChartGroup22_Value_Y,ExpDestValue_tbx10,CountryName,share,Textbox53,ExpDestValue_tbx9,Textbox102,Textbox92,seg Num_label,seg Num_ChartGroup20_label,seg Num_ChartGroup20_Value_Y,Textbox110
+
